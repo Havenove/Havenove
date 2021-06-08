@@ -11,7 +11,7 @@
 
 💭 "Tempo é uma ilusão que ajuda as coisas a fazerem sentido :)"
 
-👨🏻‍🚀 Entre em contato comigo pelo **[Telegram!](t.me/Havenove)**
+👨🏻‍🚀 Entre em contato comigo pelo **[Telegram!](https://t.me/Havenove)**
 
 <br />
 <br />
