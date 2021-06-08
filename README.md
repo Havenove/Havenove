@@ -1,5 +1,5 @@
 <br />
-<img src="https://raw.githubusercontent.com/Havenove/Havenove/main/STK-20210608-WA0024.webp" align="left" width="300" alt="ful1e5 with halo"/>
+<img src="https://github.com/Havenove/Havenove/blob/main/sources/STK-20210608-WA0024.webp" align="left" width="300"/>
 
 # Bem vindo ao meu Perfil 👋🏻
 
