@@ -1,17 +1,17 @@
 <br />
-<img src="https://github.com/Havenove/Havenove/blob/main/sources/STK-20210608-WA0024.webp" align="left" width="280"/>
+<img src="https://github.com/Havenove/Havenove/blob/main/sources/astronauta.png" align="left" width="280"/>
 
-# Olá 👋🏻
+# Oi, eu sou o Fernando 👋🏻
 
-🧑🏻 Meu nome é **Fernando dos Santos Mendonça**
+<img src="https://github.com/Havenove/Havenove/blob/main/sources/bandeira.png" width="20px" height="auto"> Meu nome é **Fernando dos Santos Mendonça**
 
-👨🏻‍🎓 Cursando **Ciência da Computação (UENP-CLM)**
+<img src="https://github.com/Havenove/Havenove/blob/main/sources/observatorio.png" width="20px" height="auto"> Cursando **Ciência da Computação (UENP-CLM)**
 
-👨🏻‍💻 Entusiasta de **Linux e Android**
+<img src="https://github.com/Havenove/Havenove/blob/main/sources/telescopio.png" width="20px" height="auto"> Entusiasta de **Linux e Android**
 
-💭 "Tempo é uma ilusão que ajuda as coisas a fazerem sentido :)"
+<img src="https://github.com/Havenove/Havenove/blob/main/sources/astronauta.png" width="20px" height="auto"> "Tempo é uma ilusão que ajuda as coisas a fazerem sentido :)"
 
-👨🏻‍🚀 Entre em contato comigo pelo **[Telegram!](https://t.me/Havenove)**
+<img src="https://github.com/Havenove/Havenove/blob/main/sources/meteorito.png" width="20px" height="auto"> Entre em contato comigo pelo **[Telegram!](https://t.me/Havenove)**
 
 <br />
 <br />
