@@ -16,7 +16,7 @@ Talk to me about:
 - Android Jailbreaking, Roms and Root!
 - Customizations, UX and UI Designs.
 - Crypto, Market and Wallets.
-## Other Stuffs 😎
+## 😎 Other Stuffs
 - 💬 Ask me about anything an everything.
 - 🎮 Play with me :): [Epic Account](https://launcher.store.epicgames.com/u/f5a9ced054a7488a8c7f9013e32645be).
 - 🎯 My Repo`s: [Repositories](https://github.com/Havenove?tab=repositories).
