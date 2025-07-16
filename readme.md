@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐢`𝐦 𝐅𝐞𝐫𝐧𝐚𝐧𝐝𝐨 𝐝𝐨𝐬 𝐒𝐚𝐧𝐭𝐨𝐬, 𝐚 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐁𝐫𝐚𝐳𝐢𝐥! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐅𝐞𝐫𝐧𝐚𝐧𝐝𝐨 𝐝𝐨𝐬 𝐒𝐚𝐧𝐭𝐨𝐬 — 𝐚 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐁𝐫𝐚𝐳𝐢𝐥! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30px"></h2>
 
 <img align='right' src='https://media.tenor.com/40q2xXN6gfMAAAAi/meowth-pokemon.gif' width='200"'>
 
