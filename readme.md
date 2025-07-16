@@ -7,8 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-4F772D?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/f.santm/)](https://www.instagram.com/f.santm/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-31572C?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/havenove)](https://t.me/havenove)
 
-I'm from a townie in Paraná. Starting in the Information Systems course at the State University of Paraná (UENP), Catholic ✝️
-I love to explore and learn about new things.
+I'm from a small town in Paraná, Brazil. Currently studying Information Systems at the State University of Paraná (UENP). I'm Catholic ✝️
+I love exploring and learning new things.
 
 ## ⚡ Technologies That Drive Me
 I’m passionate about digging deep, customizing, and truly understanding how things work. Here are some of the areas I enjoy the most:
