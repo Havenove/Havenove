@@ -7,15 +7,16 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-4F772D?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/f.santm/)](https://www.instagram.com/f.santm/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-31572C?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/havenove)](https://t.me/havenove)
 
-I'm from a townie in Paraná. Starting in the Information Systems course at the State University of Paraná (UENP), Catholic 🇻🇦. I love to explore and learn about new things.
+I'm from a townie in Paraná. Starting in the Information Systems course at the State University of Paraná (UENP), Catholic ✝️
+I love to explore and learn about new things.
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS**.
-- Linux, Commands and Distros **(Not Ubuntu pls.)**
-- Android Jailbreaking, Roms and Root!
-- Customizations, UX and UI Designs.
-- Crypto, Market and Wallets.
+- Front-end Development: Building responsive and user-friendly interfaces using **HTML, CSS, and JavaScript.** Focused on clean code and great user experiences.
+- Linux **(No Ubuntu, please!):** I enjoy working with alternative distros, terminal commands, scripting, and system customization.
+- Advanced Android: Enthusiast of rooting, custom ROMs, recovery mods, bootloader unlocking, and exploring Android beyond factory settings.
+- UI/UX Customization: I care about intuitive interfaces that look great and feel smooth.
+- Crypto & Blockchain: I actively follow the crypto space — from wallets and market trends to blockchain technologies and decentralization.
 ## 😎 Other Stuffs
 - 💬 Ask me about anything an everything.
 - 🎮 Play with me :): [Epic Account](https://launcher.store.epicgames.com/u/f5a9ced054a7488a8c7f9013e32645be).
