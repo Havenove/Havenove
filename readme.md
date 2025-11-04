@@ -7,7 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-4F772D?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/f.santm/)](https://www.instagram.com/f.santm/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-31572C?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/havenove)](https://t.me/havenove)
 
-I'm a tech enthusiast and an Information Systems student at the State University of Paraná (UENP), Brazil. Hailing from a small town, I'm driven by curiosity and a passion for exploring, customizing, and deeply understanding how things really work. **Catholic  ✝️**
+I'm a tech enthusiast and an Information Systems student at the State University of Paraná (UENP), Brazil.
+Hailing from a small town, I'm driven by curiosity and a passion for exploring, customizing, and deeply understanding how things really work. **Catholic  ✝️**
 
 ## ⚡ Technologies & Passions That Drive Me
 I'm the kind of person who loves to dig deep, "get my hands dirty," and tweak technology until it feels just right.
@@ -17,11 +18,13 @@ I'm the kind of person who loves to dig deep, "get my hands dirty," and tweak te
 - Advanced Android: An enthusiast of rooting, custom ROMs, recovery mods (TWRP/OrangeFox), bootloader unlocking, and exploring Android beyond its factory settings.
 - UI/UX Customization: A firm believer in interfaces that are not just beautiful, but also intuitive, smooth, and enjoyable to use.
 - Crypto & Blockchain: Actively following the crypto space from wallets and market trends to blockchain technologies and the concept of decentralization.
+
 ## 😎 Let's Connect!
 - 💬 Open to talk about anything and everything — **just ask!**
 - 🎮 Let’s play together! :): [Epic Account](https://launcher.store.epicgames.com/u/f5a9ced054a7488a8c7f9013e32645be).
 - 🎯 Check out what I’ve been building: [Repositories](https://github.com/Havenove?tab=repositories).
 - 🎧 Music is always on — tune in with me: [Spotify](https://open.spotify.com/user/nz926x14pjwd4k8ylirej4yyh).
 - ❤️ _Despite everything, it's still you._
+
 ## 
 ![Havenove github stats](https://github-readme-stats.vercel.app/api?username=havenove&hide=["issues"]&show_icons=true)
