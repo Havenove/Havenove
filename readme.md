@@ -16,9 +16,13 @@ I'm the kind of person who loves to dig deep, "get my hands dirty," and tweak te
 <div align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> </div>
 
 - Linux: I enjoy exploring alternative distros, the power of the terminal, and full system customization. I'm very hands-on with the "under-the-hood" work, including:
+  
 ● System Troubleshooting: Diagnosing and fixing boot issues, dependency conflicts, and general system repair.
+
 ● Disk & Partition Management: Formatting, advanced partitioning (like fdisk/gparted), and setting up filesystems.
+
 ● Package & Repository Handling: Working with various package managers and managing software sources.
+
 ● Bare-Metal & Repair: Full system installations, dual-boot setups, and computer repair/recovery.
 
 - Advanced Android: An enthusiast of rooting, custom ROMs, recovery mods (TWRP/OrangeFox), bootloader unlocking, and exploring Android beyond its factory settings.
