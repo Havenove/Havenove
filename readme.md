@@ -23,7 +23,9 @@ I'm the kind of person who loves to dig deep, "get my hands dirty," and tweak te
 - Bare-Metal & Repair: Full system installations, dual-boot setups, and computer repair/recovery.
 
 ● Advanced Android: An enthusiast of rooting, custom ROMs, recovery mods (TWRP/OrangeFox), bootloader unlocking, and exploring Android beyond its factory settings.
+
 ● UI/UX Customization: A firm believer in interfaces that are not just beautiful, but also intuitive, smooth, and enjoyable to use.
+
 ● Crypto & Blockchain: Actively following the crypto space from wallets and market trends to blockchain technologies and the concept of decentralization.
 
 ## 😎 Let's Connect!
