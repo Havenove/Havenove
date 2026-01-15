@@ -14,6 +14,7 @@ Hailing from a small town, I'm driven by curiosity and a passion for exploring, 
 I'm the kind of person who loves to dig deep, "get my hands dirty," and tweak technology until it feels just right.
 
 ● Front-end Development: Building responsive and user-friendly interfaces with a focus on clean code and great user experiences.
+
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
