@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media.tenor.com/40q2xXN6gfMAAAAi/meowth-pokemon.gif' width='200"'>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-BDC27E?style=for-the-badge&logo=inspire&logoColor=white&logo=deliveroo&link=https://www.linkedin.com/in/havenove/)](https://www.linkedin.com/in/havenove/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-BDC27E?style=for-the-badge&logo=inspire&logoColor=black&link=https://www.linkedin.com/in/havenove/)](https://www.linkedin.com/in/havenove/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-90A955?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:havekyuu@gmail.com)](mailto:havekyuu@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-4F772D?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/f.santm/)](https://www.instagram.com/f.santm/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-31572C?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/havenove)](https://t.me/havenove)
