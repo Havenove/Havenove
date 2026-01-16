@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media.tenor.com/40q2xXN6gfMAAAAi/meowth-pokemon.gif' width='200"'>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-BDC27E?style=for-the-badge&logo=linkedin&logoColor=white&logo=deliveroo&link=https://www.linkedin.com/in/havenove/)](https://www.linkedin.com/in/havenove/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-BDC27E?style=for-the-badge&logo=inspire&logoColor=white&logo=deliveroo&link=https://www.linkedin.com/in/havenove/)](https://www.linkedin.com/in/havenove/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-90A955?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:havekyuu@gmail.com)](mailto:havekyuu@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-4F772D?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/f.santm/)](https://www.instagram.com/f.santm/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-31572C?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/havenove)](https://t.me/havenove)
@@ -35,6 +35,7 @@ I'm the kind of person who loves to dig deep, "get my hands dirty," and tweak te
 
 ## 😎 Let's Connect!
 - 💬 Open to talk about anything and everything — **just ask!**
+
 - 🎮 Let’s play together! :): [![EPIC Badge](https://img.shields.io/badge/Epic%20Games-000000?&style=for-the-badge&logo=epicgames&logoColor=WHITE&link=https://launcher.store.epicgames.com/u/f5a9ced054a7488a8c7f9013e32645be)](https://launcher.store.epicgames.com/u/f5a9ced054a7488a8c7f9013e32645be)
 - 🎯 Check out what I’ve been building: [![GITHUB Badge](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=ad1aca&link=https://github.com/Havenove?tab=repositories)](https://github.com/Havenove?tab=repositories)
 - 🎧 Music is always on — tune in with me: [![Spotify Badge](https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=WHITE&link=https://open.spotify.com/user/nz926x14pjwd4k8ylirej4yyh)](https://open.spotify.com/user/nz926x14pjwd4k8ylirej4yyh)
