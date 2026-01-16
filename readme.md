@@ -2,10 +2,10 @@
 
 <img align='right' src='https://media.tenor.com/40q2xXN6gfMAAAAi/meowth-pokemon.gif' width='200"'>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-BDC27E?style=flat-square&logo=deliveroo&logoColor=black&link=https://www.linkedin.com/in/havenove/)](https://www.linkedin.com/in/havenove/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-90A955?style=flat-square&logo=Gmail&logoColor=white&link=mailto:havekyuu@gmail.com)](mailto:havekyuu@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-4F772D?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/f.santm/)](https://www.instagram.com/f.santm/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-31572C?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/havenove)](https://t.me/havenove)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-BDC27E?style=for-the-badge&logo=linkedin&logoColor=white&logo=deliveroo&link=https://www.linkedin.com/in/havenove/)](https://www.linkedin.com/in/havenove/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-90A955?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:havekyuu@gmail.com)](mailto:havekyuu@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-4F772D?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/f.santm/)](https://www.instagram.com/f.santm/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-31572C?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/havenove)](https://t.me/havenove)
 
 I'm a tech enthusiast and an Information Systems student at the State University of Paraná (UENP), Brazil.
 Hailing from a small town, I'm driven by curiosity and a passion for exploring, customizing, and deeply understanding how things really work. **Catholic  ✝️**
@@ -15,9 +15,10 @@ I'm the kind of person who loves to dig deep, "get my hands dirty," and tweak te
 
 ● Front-end Development: Building responsive and user-friendly interfaces with a focus on clean code and great user experiences.
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+[![JS Badge](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=YELLOW)]
+[![HTML Badge](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ORANGE)]
+[![LINUX Badge](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ORANGE)]
+[![CSS3 Badge](https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css&logoColor=61DAFB)]
 
 ● Linux: I enjoy exploring alternative distros, the power of the terminal, and full system customization. I'm very hands-on with the "under-the-hood" work, including:
   
