@@ -15,10 +15,10 @@ I'm the kind of person who loves to dig deep, "get my hands dirty," and tweak te
 
 ● Front-end Development: Building responsive and user-friendly interfaces with a focus on clean code and great user experiences.
 
-[![JS Badge](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=YELLOW)]
-[![HTML Badge](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ORANGE)]
-[![LINUX Badge](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ORANGE)]
-[![CSS3 Badge](https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css&logoColor=61DAFB)]
+![JS Badge](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=YELLOW)
+![HTML Badge](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ORANGE)
+![LINUX Badge](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ORANGE)
+![CSS3 Badge](https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css&logoColor=61DAFB)
 
 ● Linux: I enjoy exploring alternative distros, the power of the terminal, and full system customization. I'm very hands-on with the "under-the-hood" work, including:
   
@@ -35,10 +35,7 @@ I'm the kind of person who loves to dig deep, "get my hands dirty," and tweak te
 
 ## 😎 Let's Connect!
 - 💬 Open to talk about anything and everything — **just ask!**
-- 🎮 Let’s play together! :): [Epic Account](https://launcher.store.epicgames.com/u/f5a9ced054a7488a8c7f9013e32645be).
-- 🎯 Check out what I’ve been building: [Repositories](https://github.com/Havenove?tab=repositories).
-- 🎧 Music is always on — tune in with me: [Spotify](https://open.spotify.com/user/nz926x14pjwd4k8ylirej4yyh).
+- 🎮 Let’s play together! :): [![EPIC Badge](https://img.shields.io/badge/Epic%20Games-000000?&style=for-the-badge&logo=epicgames&logoColor=WHITE&link=https://launcher.store.epicgames.com/u/f5a9ced054a7488a8c7f9013e32645be)](https://launcher.store.epicgames.com/u/f5a9ced054a7488a8c7f9013e32645be)
+- 🎯 Check out what I’ve been building: [![GITHUB Badge](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=ad1aca&link=https://github.com/Havenove?tab=repositories)](https://github.com/Havenove?tab=repositories)
+- 🎧 Music is always on — tune in with me: [![Spotify Badge](https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=WHITE&link=https://open.spotify.com/user/nz926x14pjwd4k8ylirej4yyh)](https://open.spotify.com/user/nz926x14pjwd4k8ylirej4yyh)
 - ❤️ _Despite everything, it's still you._
-
-## 
-![Havenove github stats](https://github-readme-stats.vercel.app/api?username=havenove&hide=["issues"]&show_icons=true)
